@@ -1,1 +1,2 @@
-# Homework-1-Solar-Astrophysics
+# Homework 1
+# Solar Astrophysics: Techniques and Data Analysis 
